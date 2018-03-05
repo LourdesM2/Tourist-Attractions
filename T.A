@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    body {
+      background-color: Pink;
+    }
+
+  </style>
+
+  <head>
+    <title> Nature's Gift</title>
+    <!-- Ma. Lourdes Saludes-->
+  </head>
+
+  <body>
+    <h1>
+      Palawan, Philippines
+    </h1>
+    <h2>
+      "Tourist Attractions"
+    </h2>
+
+    <ul>
+      <li>Puerto Princesa Subterranean River National Park</li>
+      <li>El Nido, Palawan</li>
+      <li>Honda Bay</li>
+      <li>Palawan Butterfly Ecological Garden and Tribal Village</li>
+      <li>Iwahig Firefly Wathing</li>
+    </ul>
+  </body>
+
+</html>
